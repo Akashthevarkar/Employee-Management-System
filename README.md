@@ -65,7 +65,4 @@ This project demonstrates **modern web development** practices using React, Spri
 - ✅ Toast notifications for user actions  
 
 
-## Author
 
-**Akash Thevarkar**
-[GitHub](https://github.com/Akashthevarkar)
