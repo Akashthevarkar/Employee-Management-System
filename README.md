@@ -69,5 +69,3 @@ This project demonstrates **modern web development** practices using React, Spri
 
 **Akash Thevarkar**
 [GitHub](https://github.com/Akashthevarkar)
-
-```
